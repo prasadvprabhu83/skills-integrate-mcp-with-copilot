@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+fastapi-users[sqlalchemy]
+sqlalchemy
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
